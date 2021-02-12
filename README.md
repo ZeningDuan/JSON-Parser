@@ -32,8 +32,7 @@ Who would benefit from this tool?
 * If you plan to filter raw JSONs by language and/or keywords to narrow down the scope.
 * If you plan an accurate, stable, and replicable framework to analyze raw tweet JSONs.
 
-**New updates and versions are comming soon**
-In late Feb, I will share parsers for standard tweet JSONs.
+**New updates and versions are comming soon.** In late Feb, I will share parsers applying for standard tweet JSONs.
 
 
 
