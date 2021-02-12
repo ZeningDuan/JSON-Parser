@@ -59,7 +59,7 @@ It is hardly to have an one-for-all script to parse your data as the interested 
 
 <!-- CONTACT -->
 ### Contact
-Zening 'Ze' Duan, _SJMC_, University of Wisconsin-Madison
+Zening 'Ze' Duan, [_SJMC_](https://journalism.wisc.edu/), University of Wisconsin-Madison
 
 zening.duan AT wisc DOT edu 
 
