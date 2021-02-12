@@ -65,5 +65,5 @@ zening.duan AT wisc DOT edu
 
 <!-- ACKNOWLEDGEMENTS -->
 ### Acknowledgements
-Thanks Yachao Qian for code testing, thanks Sijia and Dhavan for support. 
+Thanks Yachao Qian for code testing, and thank Sijia and Dhavan for their support.
 
