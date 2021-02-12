@@ -1,6 +1,10 @@
 # Raw Tweet JSON Parsers
 
-This repository will provide two parsers for resolving raw JSONs you got directly from API (e.g., Firehose) or got from tweet id rehydration. Parser for rehydrated JSONs is now available. Parser for standard JSONs will be available soon. 
+This repository will provide parsers for resolving two types of raw JSONs:
+1. **Standard JSONs** collected directly from Twitter APIs (e.g., Firehose)
+2. **Rrhydrated JSONs** collected from tweet rehydration by twitter ids. 
+
+Parser for rehydrated JSONs is available now. Parser for standard JSONs will be available soon. 
 
 
 
